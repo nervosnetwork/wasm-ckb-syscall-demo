@@ -1,0 +1,7 @@
+/target
+**/*.rs.bk
+
+syscall.c
+syscall.h
+syscall.wat
+syscall_riscv64
